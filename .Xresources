@@ -58,7 +58,7 @@ XTerm*selectToClipboard: true
 URxvt.depth: 32
 
 !! BACKGROUND TRANSPARENT
-URxvt.background: [80]#06060a
+!URxvt.background: [80]#06060
 
 URxvt*scrollBar:                      false
 URxvt*mouseWheelScrollPage:           false
